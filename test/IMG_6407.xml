@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_6407.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\IMG_6407.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri ve Sola Mecburi Don</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>270</ymin>
+			<xmax>480</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

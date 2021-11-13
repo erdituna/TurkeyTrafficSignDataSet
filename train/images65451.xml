@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>images65451.jpg</filename>
+	<path>D:\data\TEZRESIMLER\images65451.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>292</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kasisli Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>4</ymin>
+			<xmax>274</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

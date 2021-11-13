@@ -1,0 +1,38 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni251.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni251.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>812</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>221</ymin>
+			<xmax>413</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kasisli Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>118</ymin>
+			<xmax>421</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

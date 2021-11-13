@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>50km110.JPG</filename>
+	<path>D:\data\TEZRESIMLER\50km110.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>238</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>7</ymin>
+			<xmax>178</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

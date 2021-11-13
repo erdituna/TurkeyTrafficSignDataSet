@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>img_70_3.jpg</filename>
+	<path>D:\data\TEZRESIMLER\img_70_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>77</ymin>
+			<xmax>313</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>77</ymin>
+			<xmax>416</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

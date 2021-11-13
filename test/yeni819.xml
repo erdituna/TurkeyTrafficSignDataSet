@@ -1,0 +1,38 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni819.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni819.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1097</width>
+		<height>634</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>133</ymin>
+			<xmax>176</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>251</ymin>
+			<xmax>172</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

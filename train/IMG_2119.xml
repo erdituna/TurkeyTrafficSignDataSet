@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>IMG_2119.JPG</filename>
+	<path>D:\data\TEZRESIMLER\IMG_2119.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>414</ymin>
+			<xmax>519</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>541</ymin>
+			<xmax>183</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

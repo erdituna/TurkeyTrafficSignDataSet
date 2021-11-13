@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>IMG_0858.jpg</filename>
+	<path>D:\data\TEZRESIMLER\IMG_0858.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>566</ymin>
+			<xmax>446</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

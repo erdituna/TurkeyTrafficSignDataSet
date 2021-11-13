@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni120.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni120.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>589</width>
+		<height>668</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>222</ymin>
+			<xmax>255</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

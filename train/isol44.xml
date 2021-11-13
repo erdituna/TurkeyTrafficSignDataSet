@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>isol44.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\isol44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>998</width>
+		<height>710</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>81</ymin>
+			<xmax>282</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

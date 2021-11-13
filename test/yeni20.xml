@@ -1,0 +1,38 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni20.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni20.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>774</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>269</ymin>
+			<xmax>300</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>95</ymin>
+			<xmax>324</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

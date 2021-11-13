@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>cros18.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\Yeni klasör\cros18.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>593</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>110</ymin>
+			<xmax>539</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

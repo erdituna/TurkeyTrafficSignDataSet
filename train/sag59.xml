@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sag59.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\sag59.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>542</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>109</ymin>
+			<xmax>290</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

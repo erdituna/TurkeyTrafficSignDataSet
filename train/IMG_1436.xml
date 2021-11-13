@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>IMG_1436.jpg</filename>
+	<path>D:\data\TEZRESIMLER\IMG_1436.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>777</xmin>
+			<ymin>589</ymin>
+			<xmax>901</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

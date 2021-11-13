@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>kasis109.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\kasis109.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>461</width>
+		<height>692</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kasisli Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>52</ymin>
+			<xmax>244</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

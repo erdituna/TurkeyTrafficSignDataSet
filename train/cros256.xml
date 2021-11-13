@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>cros256.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\Yeni klasör\cros256.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>577</width>
+		<height>578</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>262</ymin>
+			<xmax>275</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

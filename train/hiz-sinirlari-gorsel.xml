@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>hiz-sinirlari-gorsel.jpg</filename>
+	<path>D:\data\TEZRESIMLER\hiz-sinirlari-gorsel.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>163</ymin>
+			<xmax>473</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>157</ymin>
+			<xmax>698</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

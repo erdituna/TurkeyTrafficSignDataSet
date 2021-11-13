@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>IMG_0784.jpg</filename>
+	<path>D:\data\TEZRESIMLER\IMG_0784.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>663</ymin>
+			<xmax>120</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>673</ymin>
+			<xmax>661</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+</annotation>

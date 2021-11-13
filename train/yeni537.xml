@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni537.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni537.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>541</width>
+		<height>689</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>225</ymin>
+			<xmax>298</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

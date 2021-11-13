@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_6635.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\IMG_6635.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>273</ymin>
+			<xmax>630</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>399</ymin>
+			<xmax>590</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

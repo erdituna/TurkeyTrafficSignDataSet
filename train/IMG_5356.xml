@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_5356.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\IMG_5356.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>418</ymin>
+			<xmax>157</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

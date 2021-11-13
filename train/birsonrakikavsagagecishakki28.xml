@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>birsonrakikavsagagecishakki28.JPG</filename>
+	<path>D:\data\TEZRESIMLER\birsonrakikavsagagecishakki28.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>307</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>132</ymin>
+			<xmax>191</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

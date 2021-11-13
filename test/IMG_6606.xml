@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_6606.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\IMG_6606.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>375</ymin>
+			<xmax>514</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>yayagecidi21.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\yayagecidi21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>981</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>155</ymin>
+			<xmax>210</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

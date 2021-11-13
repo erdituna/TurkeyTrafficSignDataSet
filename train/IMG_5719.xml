@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_5719.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\IMG_5719.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>454</ymin>
+			<xmax>492</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

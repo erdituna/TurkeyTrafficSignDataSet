@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>t41.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\t41.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>451</width>
+		<height>751</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>54</ymin>
+			<xmax>435</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

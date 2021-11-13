@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sagdan-gidiniz-yon-uyari-levhasi-tek-yon-8d3a.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\sagdan-gidiniz-yon-uyari-levhasi-tek-yon-8d3a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>351</ymin>
+			<xmax>963</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+</annotation>

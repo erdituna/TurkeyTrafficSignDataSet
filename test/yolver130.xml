@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>yolver130.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\yolver130.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>253</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>59</ymin>
+			<xmax>203</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

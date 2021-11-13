@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>x24.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\x24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>61</ymin>
+			<xmax>621</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

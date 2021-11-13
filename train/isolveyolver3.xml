@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>isolveyolver3.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\isolveyolver3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>966</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>92</ymin>
+			<xmax>367</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ileri ve Sola Mecburi Don</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>173</ymin>
+			<xmax>178</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

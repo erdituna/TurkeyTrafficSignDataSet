@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>30km76.JPG</filename>
+	<path>D:\data\TEZRESIMLER\30km76.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>657</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>182</ymin>
+			<xmax>196</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>89</ymin>
+			<xmax>213</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>right4.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\Yeni klasör\right4.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>769</width>
+		<height>717</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>261</ymin>
+			<xmax>137</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

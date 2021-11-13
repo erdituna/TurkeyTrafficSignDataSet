@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>cros153.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\Yeni klasör\cros153.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>891</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>265</ymin>
+			<xmax>115</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

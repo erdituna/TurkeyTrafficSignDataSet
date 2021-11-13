@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>kasis30km.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\kasis30km.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>419</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>174</ymin>
+			<xmax>129</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kasisli Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>132</ymin>
+			<xmax>136</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

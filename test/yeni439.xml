@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni439.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni439.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>808</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>226</ymin>
+			<xmax>326</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_5871.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\IMG_5871.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>299</ymin>
+			<xmax>655</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

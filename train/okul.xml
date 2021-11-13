@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>okul.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\okul.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>668</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kasisli Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>4</ymin>
+			<xmax>345</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

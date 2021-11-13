@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test61.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\test61.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>171</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>13</ymin>
+			<xmax>86</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

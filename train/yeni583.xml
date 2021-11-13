@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni583.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni583.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>430</ymin>
+			<xmax>265</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

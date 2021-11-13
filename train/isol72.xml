@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>isol72.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\isol72.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1126</width>
+		<height>617</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri ve Sola Mecburi Don</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>930</xmin>
+			<ymin>120</ymin>
+			<xmax>1010</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>143</ymin>
+			<xmax>98</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test209.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\test209.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>461</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>160</ymin>
+			<xmax>257</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

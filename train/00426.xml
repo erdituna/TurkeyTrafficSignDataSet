@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>00426.jpg</filename>
+	<path>D:\data\TEZRESIMLER\00426.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>63</width>
+		<height>60</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>60</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+</annotation>

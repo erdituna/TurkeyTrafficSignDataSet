@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_6645.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\IMG_6645.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>434</ymin>
+			<xmax>566</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>258</ymin>
+			<xmax>653</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

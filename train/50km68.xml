@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>50km68.JPG</filename>
+	<path>D:\data\TEZRESIMLER\50km68.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>399</width>
+		<height>779</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>211</ymin>
+			<xmax>350</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kasisli Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>105</ymin>
+			<xmax>359</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yayagecidi25.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\yayagecidi25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1102</width>
+		<height>807</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>124</ymin>
+			<xmax>297</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

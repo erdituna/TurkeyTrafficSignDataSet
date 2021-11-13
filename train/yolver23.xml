@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yolver23.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\yolver23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1034</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yol Ver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>239</ymin>
+			<xmax>417</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

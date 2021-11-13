@@ -1,0 +1,38 @@
+<annotation>
+	<folder>yeniii</folder>
+	<filename>yeni821.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\yeniii\yeni821.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>225</ymin>
+			<xmax>254</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>110</ymin>
+			<xmax>236</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

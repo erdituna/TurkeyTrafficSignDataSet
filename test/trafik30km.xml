@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>trafik30km.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\trafik30km.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>204</ymin>
+			<xmax>280</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>102</ymin>
+			<xmax>294</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

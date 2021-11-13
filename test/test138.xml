@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test138.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\test138.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>491</width>
+		<height>559</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>219</ymin>
+			<xmax>321</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>173</ymin>
+			<xmax>325</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

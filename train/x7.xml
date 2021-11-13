@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>x7.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\x7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>55</ymin>
+			<xmax>167</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

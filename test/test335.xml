@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test335.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\test335.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>305</width>
+		<height>846</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trafikisiklari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>61</ymin>
+			<xmax>298</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

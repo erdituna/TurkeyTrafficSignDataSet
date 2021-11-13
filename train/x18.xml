@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>x18.jpg</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\x18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>817</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>153</ymin>
+			<xmax>593</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>70 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>150</ymin>
+			<xmax>653</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

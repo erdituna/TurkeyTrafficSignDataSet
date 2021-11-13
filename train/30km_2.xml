@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>30km_2.JPG</filename>
+	<path>D:\data\TEZRESIMLER\30km_2.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>281</width>
+		<height>474</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>101</ymin>
+			<xmax>138</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>anayoltali9.JPG</filename>
+	<path>D:\data\TEZRESIMLER\anayoltali9.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>43</ymin>
+			<xmax>360</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

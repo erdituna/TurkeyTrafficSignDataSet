@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test188.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\test\test188.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kasisli Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>61</ymin>
+			<xmax>298</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

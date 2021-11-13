@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_4386.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\IMG_4386.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>188</ymin>
+			<xmax>547</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

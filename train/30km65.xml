@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>30km65.JPG</filename>
+	<path>D:\data\TEZRESIMLER\30km65.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>387</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30 Km Hiz Siniri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>220</ymin>
+			<xmax>228</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yaya Gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>55</ymin>
+			<xmax>260</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

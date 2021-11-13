@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEZRESIMLER</folder>
+	<filename>birsonraki193.jpg</filename>
+	<path>D:\data\TEZRESIMLER\birsonraki193.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>154</width>
+		<height>134</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ana Yol Tali Yol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>2</ymin>
+			<xmax>140</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

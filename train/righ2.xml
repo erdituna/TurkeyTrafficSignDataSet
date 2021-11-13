@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>righ2.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\Yeni klasör\righ2.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>741</width>
+		<height>539</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sagdan Git</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>172</ymin>
+			<xmax>431</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

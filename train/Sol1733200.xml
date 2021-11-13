@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Sol1733200.JPG</filename>
+	<path>D:\seniorprojectez\models\research\object_detection\images\train\Sol1733200.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri ve Sola Mecburi Don</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3303</xmin>
+			<ymin>1577</ymin>
+			<xmax>3435</xmax>
+			<ymax>1674</ymax>
+		</bndbox>
+	</object>
+</annotation>

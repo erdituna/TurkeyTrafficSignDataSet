@@ -1,5 +1,6 @@
 A data set was created for Turkey Traffic sign recognition studies. This data set consists of 10 classes.
 These Classes are listed below.
+
 id: 1
 name: 'Sagdan Git'
 id: 2
